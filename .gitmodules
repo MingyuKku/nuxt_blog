@@ -1,0 +1,3 @@
+[submodule "content"]
+	path = content
+	url = D:\\Nuxt\\nuxt-blog-sub-modules\\content
