@@ -3,7 +3,16 @@
 </template>
 
 <script>
+import { test } from '../content/hello';
+
 export default {
-  name: 'IndexPage'
+  name: 'IndexPage',
+  mounted() {
+    test();
+  }
 }
+
+
+
 </script>
+
